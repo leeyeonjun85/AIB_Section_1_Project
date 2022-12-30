@@ -55,12 +55,6 @@
 - Daily Reflection 은 그 날 진행한 것에 대해 돌아보고 다음 날의 계획을 세워보면서 제한된 시간 안에 프로젝트를 효율적으로 완성하기 위해 작성하는 것으로
 - 프로젝트를 하면서 어려움이 있었던 부분이나 느낀 점을 적어둔다면 제한된 시간 내에 프로젝트를 완성하는 데에 큰 도움이 될 것입니다.
 
-<center>
-<img alt="image" 
-width=70% 
-src="https://www.freecodecamp.org/korean/news/content/images/size/w2000/2022/07/5f9c9a4c740569d1a4ca24c2.jpeg">  
-</center>
-
 
 ## 과제작성기준
 
@@ -124,4 +118,52 @@ src="https://www.freecodecamp.org/korean/news/content/images/size/w2000/2022/07/
 - 발표 영상 제작 전 다음 글을 참고하신 후 제작하시면 도움이 될 것입니다.
 
 
+<center>
+<img alt="image" 
+width=70% 
+src="https://www.freecodecamp.org/korean/news/content/images/size/w2000/2022/07/5f9c9a4c740569d1a4ca24c2.jpeg">  
+</center>
 
+## Section1 Project 1st Day Reflection
+- 오늘 한 내용
+    - 전체 시간계획 짜기 ✅
+    - Data Cleaning, Wrangling 🟩(진행중)
+    - github, colab 작업공간 설정, 전체 시간계획 작성, 탐색적 데이터 분석, 데이터 클리닝(불필요한 피쳐 제거, 결측제거, 데이터타입 설정)
+- 내일 해야하는 내용
+    - 도메인 리서치, 관련 아티클 탐색
+- 프로젝트 진행도 : 0~10 으로 이루어져 있으며, 40% 진행 시 4 를 선택해주시면 됩니다.
+    - 1
+- 특이사항
+    - VGChartz 에서 웹스크래핑한 데이터로 분석해도 될까요?
+- 셀프 평가 : 0 ~ 3 점 (과제와 동일)
+    - 3
+- 감정 평가 : 1 ~ 3 점 (과제와 동일)
+    - 3
+
+
+
+
+[Future of Video Games: Trends, Technology, and Types](https://online.maryville.edu/blog/future-of-video-games/)
+
+[Gaming Trends 2023 - Top 10 Trends that Will Rule Industry](https://www.ediiie.com/blog/gaming-trends/)
+1. AR and VR in Gaming
+    - AR 및 VR 비디오 게임 시장은 2026년까지 110억 달러에 달할 것
+1. Cross-Platform Gaming Trends in 2023
+
+1. Competitive Multiplayer Mobile Gaming
+1. Fitness Gaming
+1. New Platforms for PC Gaming
+1. Blockchain-Based Gaming Trends 2023
+1. Esports 
+1. Metaverse Gaming
+1. Unity is the favorite Game Engine of 2023
+1. Cloud and Streaming Video Games
+    - 5G의 등장으로 2023년에는 스트리밍 게임이 표준이 될 것
+
+- The Future of the Gaming
+    - 2023년까지 전 세계 모바일 게이머는 30억 7천만 명에 이를 것
+    - 비디오 게임 시장은 2030년까지 5,836억 9천만 달러에 달할 것
+
+[2022 유니티 게임 업계 보고서: 다섯 가지 트렌드를 통한 게임 업계 분석](https://blog.unity.com/kr/games/unity-gaming-report-2022-five-insights-on-the-gaming-industry-today)
+
+[미리보는 2022년 게임 트렌드, 세대 변화에 주목하라](https://www.khgames.co.kr/news/articleView.html?idxno=131367)
