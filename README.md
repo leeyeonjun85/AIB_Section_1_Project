@@ -178,7 +178,19 @@ src="https://www.freecodecamp.org/korean/news/content/images/size/w2000/2022/07/
 - 감정 평가 : 1 ~ 3 점 (과제와 동일)
     - 3
 
-
+## Section1 Project 4th Day Reflection
+- 오늘 한 내용
+    - 스크립트 작성, 슬라이드 작성, 영상촬영
+- 내일 해야하는 내용
+    - 피드백
+- 프로젝트 진행도 : 0~10 으로 이루어져 있으며, 40% 진행 시 4 를 선택해주시면 됩니다.
+    - 10
+- 특이사항
+    - 시간에 쫓겨서 아쉽다!
+- 셀프 평가 : 0 ~ 3 점 (과제와 동일)
+    - 3
+- 감정 평가 : 1 ~ 3 점 (과제와 동일)
+    - 3
 
 
 
@@ -207,3 +219,16 @@ src="https://www.freecodecamp.org/korean/news/content/images/size/w2000/2022/07/
 [2022 유니티 게임 업계 보고서: 다섯 가지 트렌드를 통한 게임 업계 분석](https://blog.unity.com/kr/games/unity-gaming-report-2022-five-insights-on-the-gaming-industry-today)
 
 [미리보는 2022년 게임 트렌드, 세대 변화에 주목하라](https://www.khgames.co.kr/news/articleView.html?idxno=131367)
+
+
+
+## 5F 회고
+- 사실(Fact)  
+코드스테이츠 AI부트캠프 section1 project를 수행하였다.
+- 느낌(Feeling)  
+프로젝트 초기에는 자신감이 넘쳤다. 이것도 해보고 싶고, 저것도 해보고 싶은 마음이 들어서 그저 즐거웠다. 하지만 시간이 지날수록 완성해야 한다는 압박감 때문에 시간에 쫓기듯 재출해서 아쉽다.
+- 교훈(Finding)  
+시간배분이 중요함을 느꼈다. 그리고 내가 하고싶은것과 할 수 있는 것을 나눠야겠다. 하고 싶은 것은 많은데 우선순위를 나눠서 해야지, 안그러면 시간에 쫓기어 정말 중요한 것을 놓치는 것 같다.
+- 향후 행동(Future action)  
+하고 싶은 것, 해야 하는 것, 할 수 있는 것을 나눠서 우선순위를 정하여 계획을 만들어야겠다.
+- 피드백(Feedback)  
