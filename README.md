@@ -141,6 +141,46 @@ src="https://www.freecodecamp.org/korean/news/content/images/size/w2000/2022/07/
     - 3
 
 
+## Section1 Project 2nd Day Reflection
+- 오늘 한 내용
+    - Feature Engineering
+    - 클러스터링 & 시각화(진행중)
+    - 스크립트 작성(진행중)
+- 내일 해야하는 내용
+    - 클러스터링, 시각화(완성)
+    - 스크립트(완성)
+    - 슬라이드 작성
+- 프로젝트 진행도 : 0~10 으로 이루어져 있으며, 40% 진행 시 4 를 선택해주시면 됩니다.
+    - 7
+- 특이사항
+    - 
+- 셀프 평가 : 0 ~ 3 점 (과제와 동일)
+    - 3
+- 감정 평가 : 1 ~ 3 점 (과제와 동일)
+    - 3
+
+
+## Section1 Project 3nd Day Reflection
+- 오늘 한 내용
+    - 클러스터링, 시각화(완성)
+    - 스크립트(작성중)
+    - 슬라이드 작성(작성중)
+- 내일 해야하는 내용
+    - 스크립트(작성중)
+    - 슬라이드 작성(작성중)
+    - 영상촬영
+- 프로젝트 진행도 : 0~10 으로 이루어져 있으며, 40% 진행 시 4 를 선택해주시면 됩니다.
+    - 7
+- 특이사항
+    - 
+- 셀프 평가 : 0 ~ 3 점 (과제와 동일)
+    - 3
+- 감정 평가 : 1 ~ 3 점 (과제와 동일)
+    - 3
+
+
+
+
 
 
 [Future of Video Games: Trends, Technology, and Types](https://online.maryville.edu/blog/future-of-video-games/)
