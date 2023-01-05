@@ -194,34 +194,6 @@ src="https://www.freecodecamp.org/korean/news/content/images/size/w2000/2022/07/
 
 
 
-
-[Future of Video Games: Trends, Technology, and Types](https://online.maryville.edu/blog/future-of-video-games/)
-
-[Gaming Trends 2023 - Top 10 Trends that Will Rule Industry](https://www.ediiie.com/blog/gaming-trends/)
-1. AR and VR in Gaming
-    - AR 및 VR 비디오 게임 시장은 2026년까지 110억 달러에 달할 것
-1. Cross-Platform Gaming Trends in 2023
-
-1. Competitive Multiplayer Mobile Gaming
-1. Fitness Gaming
-1. New Platforms for PC Gaming
-1. Blockchain-Based Gaming Trends 2023
-1. Esports 
-1. Metaverse Gaming
-1. Unity is the favorite Game Engine of 2023
-1. Cloud and Streaming Video Games
-    - 5G의 등장으로 2023년에는 스트리밍 게임이 표준이 될 것
-
-- The Future of the Gaming
-    - 2023년까지 전 세계 모바일 게이머는 30억 7천만 명에 이를 것
-    - 비디오 게임 시장은 2030년까지 5,836억 9천만 달러에 달할 것
-
-[2022 유니티 게임 업계 보고서: 다섯 가지 트렌드를 통한 게임 업계 분석](https://blog.unity.com/kr/games/unity-gaming-report-2022-five-insights-on-the-gaming-industry-today)
-
-[미리보는 2022년 게임 트렌드, 세대 변화에 주목하라](https://www.khgames.co.kr/news/articleView.html?idxno=131367)
-
-
-
 ## 5F 회고
 - 사실(Fact)  
 코드스테이츠 AI부트캠프 section1 project를 수행하였다.
